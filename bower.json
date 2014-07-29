@@ -1,5 +1,5 @@
 {
   "name": "strophejs",
   "homepage": "https://github.com/uninett-simen/strophejs",
-  "main": "strophe.js",
+  "main": "strophe.js"
 }
